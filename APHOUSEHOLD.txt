@@ -1,0 +1,17 @@
+
+
+
+Electricity bill of meter number 1 is 250.0Rs
+Electricity bill of meter number 1 is 250.0Rs
+Electricity bill of meter number 1 is 250.0Rs
+Electricity bill of meter number 1 is 250.0Rs
+Electricity bill of meter number 5 is 250.0Rs
+Electricity bill of meter number 9 is 450.0Rs
+Electricity bill of meter number 10 is 250.0Rs
+Electricity bill of meter number 9 is 250.0Rs
+Electricity bill of meter number 10 is 570.0Rs
+Electricity bill of meter number 5 is 250.0Rs
+Electricity bill of meter number 9 is 474.0Rs
+Electricity bill of meter number 9 is 390.0Rs
+Electricity bill of meter number 5 is 220.0Rs
+Electricity bill of meter number 5 is 474.0Rs

@@ -1,0 +1,10 @@
+
+
+Electricity bill of meter number 3 is 500.0Rs
+Electricity bill of meter number 6 is 500.0Rs
+Electricity bill of meter number 8 is 500.0Rs
+Electricity bill of meter number 9 is 500.0Rs
+Electricity bill of meter number 9 is 500.0Rs
+Electricity bill of meter number 10 is 900.0Rs
+Electricity bill of meter number 10 is 950.0Rs
+Electricity bill of meter number 10 is 990.0Rs
